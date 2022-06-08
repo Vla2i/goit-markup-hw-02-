@@ -1,0 +1,60 @@
+body {
+	font-family: "Roboto", sans-serif;
+	font-family: "Raleway", sans-serif;
+	background-color: #ffff;
+	
+}
+.header {
+	background-color: #ffffff;
+	color: #212121;
+}
+.hidden {
+	
+}
+.link {
+	color: black;
+}
+.link:focus,
+.link:hover {
+	color: rgb(16, 8, 235);
+}
+a {
+	text-decoration: none;
+}
+.accent {
+	color: #2196f3;
+	font-family: "Raleway";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+	/* identical to box height */
+
+	letter-spacing: 0.03em;
+}
+.link-logo {
+	color: #000000;
+	font-family: "Raleway";
+	font-style: normal;
+
+}
+ul {
+	list-style: none;
+}
+li {
+	display: inline-block;
+}
+button {
+	cursor: pointer;
+	border: none;
+}
+button:hover {
+	background-color: rgb(16, 8, 235);
+	color: #ffff;
+}
+:root {
+	--background-color: #e5e5e5;
+	--color: #212121;
+}
+/* основной цвет color: #212121; #757575;  #FFFFFF;  
+rgba(255, 255, 255, 0.6); #2196F3; */
